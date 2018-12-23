@@ -211,6 +211,7 @@ public class DataSource1Config {
 
 ```
 
+注意：必须要有一个数据库配置@Primary。
 
 ``` 
 @Configuration
